@@ -1,0 +1,158 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+.content {
+
+}
+.banner img {
+    height: 324px;
+    width: 1170px;
+}
+.menu ul {
+    background: #22a7f0 none repeat scroll 0 0;
+    list-style: outside none none;
+    margin: 0 -14px 8px;
+    padding: 9px 0;
+}
+.menu li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.menu a {
+    background: #22a7f0 none repeat scroll 0 0;
+    color: white;
+    font-weight: bold;
+    margin-right: 0;
+    padding: 10px 85px;
+    text-decoration: none;
+}
+.menu a:hover {
+    background: #89c4f4 none repeat scroll 0 0;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.abstract {
+    background: rgba(76, 70, 69, 0.74) none repeat scroll 0 0;
+    color: white;
+    margin: 10px 0;
+    padding: 134px;
+}
+.documentation a {
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.bye a {
+    font-weight: bold;
+    margin-left: 78px;
+    margin-top: 40px;
+}
+.contact {
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+    margin-left: 29px;
+    padding: 10px;
+}
+.testimonial1 {
+    border: 1px solid gold;
+    margin-top: 31px;
+    padding: 21px;
+}
+.testimonial1 img, .testimonial2 img {
+    width: 147px;
+}
+.testimonial2 {
+    border: 1px solid gold;
+    margin-top: 31px;
+    padding: 21px;
+}
+.community {
+    border: 1px solid gold;
+    margin-top: 41px;
+    padding: 60px;
+}
+.footer p {
+    color: white;
+    font-weight: bold;
+    margin-right: 61px;
+    margin-top: 5px;
+    padding: 1px;
+}
+.footer {
+    background: rgba(68, 157, 68, 0.78) none repeat scroll 0 0;
+    margin-left: 71px;
+    margin-top: 8px;
+    text-align: right;
+    width: 1160px;
+}
+
+/*login form */
+/*login form */
+/*login form */
+/*login form */
+/*login form */
+
+.login {
+    margin: 0 auto;
+    width: 1170px;
+}
+.form {
+    margin-top: 76px;
+    padding: 57px;
+}
+.account {
+    margin-top: 55px;
+    padding: 89px;
+}
+.account h2 {
+    font-size: 21px;
+    padding: 0 100px;
+}
+.reginfo input {
+    margin-bottom: 19px;
+}
+.account a {
+    margin-left: 103px;
+}
+.birthday {
+  margin-top: 25px;
+}
+.birthday select {
+  margin-left: 55px;
+}
+.academicresult {
+  margin-top: 34px;
+}
+.dashinfo {
+  margin-top: 17px;
+}
+.registration, .mrmain {
+  background: linear-gradient(to left,#C86A78,#495A69);
+  padding: 77px;
+  color: white;
+}
+.mrdashboard{
+    width: 1170px;
+    background: #ddd;
+}
+.motivation {
+  border: 1px solid green;
+  margin-left: -83px;
+  margin-right: 93px;
+  margin-top: 62px;
+  text-align: center;
+  padding: 30px;
+}
+.goleft{
+	float:left;
+
+}
+
+/**/
